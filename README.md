@@ -1,60 +1,60 @@
 🧠 COMPLETE DSA KEYWORD MASTER LIST
 📦 ARRAY / STRING (Core Keywords)
 
-subarray
-substring
-subsequence
-subset
-contiguous
-consecutive
-window
-prefix
-suffix
-rotation
-cyclic
-rearrange
-reorder
-partition
-split
-merge
-interval
-range
-segment
-difference
-prefix sum
-suffix sum
-running sum
-cumulative
-frequency
-count
-occurrence
-duplicate
-missing
-repeating
-unique
-distinct
-common
-intersection
-union
-anagram
-palindrome
-pattern match
-encoding
-decoding
-compression
-expand
-flatten
-zigzag
-spiral
-diagonal
-matrix
-grid
-2D array
-row
-column
-transpose
+subarray.     
+substring    
+subsequence    
+subset    
+contiguous    
+consecutive    
+window    
+prefix    
+suffix    
+rotation    
+cyclic    
+rearrange    
+reorder    
+partition    
+split    
+merge    
+interval    
+range    
+segment    
+difference    
+prefix sum    
+suffix sum    
+running sum    
+cumulative    
+frequency    
+count    
+occurrence    
+duplicate    
+missing    
+repeating    
+unique    
+distinct    
+common    
+intersection    
+union    
+anagram    
+palindrome    
+pattern match    
+encoding    
+decoding    
+compression    
+expand    
+flatten    
+zigzag    
+spiral    
+diagonal    
+matrix    
+grid    
+2D array    
+row    
+column    
+transpose    
 
-🔄 SLIDING WINDOW
+🔄 SLIDING WINDOW    
 
 fixed window
 variable window
